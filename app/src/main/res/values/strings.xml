@@ -3,4 +3,7 @@
     <string name="nome">Nome</string>
     <string name="email">Email</string>
     <string name="telefone">Telefone</string>
+    <string name="data_de_nascimento">Data de Nascimento:</string>
+    <string name="enviar">Enviar</string>
+    <string name="nome_obrigatorio">Preencha o nome</string>
 </resources>
